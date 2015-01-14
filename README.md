@@ -1,2 +1,2 @@
 # Flower-plots
-# This code make flower diagrams.
+This code make flower diagrams.
