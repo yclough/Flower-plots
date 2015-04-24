@@ -1,6 +1,6 @@
 # Flower-plots
 This R-code make nice-looking flower diagrams to visualise multivariate data.
-I use them to visualise performance for differeent ecosystem service, as done in Foley et al. (2005).
+I use them to visualise performance for multiple ecosystem service, as done in Foley et al. (2005).
 The style is inspired by Gamfeldt et al. (2013).
 
 Foley, J. A., DeFries, R., Asner, G. P., Barford, C., Bonan, G., Carpenter, S. R., ... & Snyder, P. K. (2005). Global consequences of land use. science, 309(5734), 570-574.
